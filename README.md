@@ -1,6 +1,6 @@
 # [Nodejs] 매드업 x 베어로보틱스 x 휴먼스케이프 
 
-> Django로 진행했던 주니어 협업프로젝트를 Nodejs로 다시 진행
+> Django로 진행했던 주니어 협업프로젝트를 node express로 다시 진행
 
 
 
@@ -41,7 +41,7 @@
 
 ## 기술스택
 
-<img src="https://img.shields.io/badge/express-8.9.0-blue"> <img src="https://img.shields.io/badge/Mariadb--blue">
+ <img src="https://img.shields.io/badge/node-18.2.0-blue"> <img src="https://img.shields.io/badge/express-8.9.0-blue"> <img src="https://img.shields.io/badge/Mariadb--blue">
 
 
 
@@ -62,6 +62,3 @@
 - 매드업
 - 베어로보틱스
 - 휴먼스케이프
-
-
-
